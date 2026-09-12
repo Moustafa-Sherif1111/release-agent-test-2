@@ -1,0 +1,9 @@
+{
+  "name": "release-agent-test-2",
+  "version": "0.0.1",
+  "description": "Test service for Release Agent validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
